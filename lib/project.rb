@@ -6,7 +6,7 @@ attr_accessor :title, :backers
  @backers = []
  end 
 
-def add_backers(backer)
+def add_backer(backer)
   @backers << backer
   end 
 end 
