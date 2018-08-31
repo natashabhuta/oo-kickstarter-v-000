@@ -6,4 +6,3 @@ attr_accessor :name, :backers
   @backed_projects << self
   end 
 end 
-end 
